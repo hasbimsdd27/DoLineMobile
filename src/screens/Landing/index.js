@@ -24,7 +24,7 @@ const Landing = ({navigation}) => {
           <Image style={styles.landingImage} source={subway} />
         </View>
         <Text style={styles.tittle}>DO-Line</Text>
-        <Text style={styles.subTittle}>Your Ticket Looking App</Text>
+        <Text style={styles.subTittle}>Your Ticket Finder App</Text>
 
         <TouchableOpacity
           onPress={() => {
